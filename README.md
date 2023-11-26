@@ -1,4 +1,4 @@
-# Project Name - Data Collection Form Frontend
+# Data Collection Form Frontend
 
 ## Overview
 
