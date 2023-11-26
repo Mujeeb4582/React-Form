@@ -14,7 +14,7 @@ This is the frontend part of the project, built using React. It includes a form 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Mujeeb4582/React-Form.git
 cd project-frontend
 ```
 2. Install dependencies:
