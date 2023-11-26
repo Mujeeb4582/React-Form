@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const url = 'http://localhost:5000';
+// const url = 'http://localhost:5000';
+const url = 'https://form-backend-chi.vercel.app';
 
 export const fetchData = () => axios.get(`${url}/sectors`);
 export const saveData = (newData) => axios.post(`${url}/data`, newData);
